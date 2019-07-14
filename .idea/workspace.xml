@@ -263,6 +263,14 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AppTest_testAppHasAGreeting - 2019.07.14 at 21h 47m 55s.xml">
+      <configuration name="AppTest.testAppHasAGreeting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testMockClass - 2019.07.14 at 21h 50m 40s.xml">
+      <configuration name="AppTest.testMockClass" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1123000" />
   </component>
